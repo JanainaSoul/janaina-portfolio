@@ -47,7 +47,7 @@ footer{
     justify-content: center;
 }
 
-div img_projeto{
+.projeto{
     padding: 100px;
     width: 300px;
     height: 400px;
