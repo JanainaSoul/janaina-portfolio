@@ -47,7 +47,7 @@ footer{
     justify-content: center;
 }
 
-.imagem{
+footer img:imagem{
     padding: 100px;
     width: 300px;
     height: 400px;
