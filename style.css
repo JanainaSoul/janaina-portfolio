@@ -29,6 +29,13 @@ header img {
     text-align: center;
 }
 
+.img projeto {
+    padding: 100px;
+    width: 100px;
+    height: 300px;
+}
+       
+        
 h1 {
     color: purple
 }
