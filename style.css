@@ -52,6 +52,13 @@ footer{
     justify-content: center;
 }
 
+footer projeto{
+    padding: 100px;
+    width: 400px;
+    height: 500px;
+       
+}
+
 footer a{
     margin: 20px;
     text-align: center;
@@ -65,12 +72,7 @@ footer p{
     padding: 0 50px;
 }
 
-.projeto{
-    padding: 100px;
-    width: 400px;
-    height: 500px;
-       
-}
+
 
 nav a:hover{
     color: purple;
